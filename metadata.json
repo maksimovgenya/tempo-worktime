@@ -1,0 +1,6 @@
+{
+  "name": "Time Tracker - Учёт рабочего времени",
+  "description": "Веб-приложение для учёта рабочего времени сотрудников компании с живым таймером, отчётами по периодам и гарантированным сохранением данных.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
